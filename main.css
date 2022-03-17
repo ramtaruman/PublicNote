@@ -32,7 +32,6 @@ body {
   height: 400px;
   width: 400px;
 }
-
 .note .tools {
   background-color: rgb(223, 192, 18);
   display: flex;
