@@ -4,6 +4,7 @@
 }
 
 body {
+  font-family: "Fredoka", sans-serif;
   display: flex;
   flex-wrap: wrap;
   margin: 0;
